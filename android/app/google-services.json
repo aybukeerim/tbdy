@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "458583265582",
+    "project_id": "talkbuddyai",
+    "storage_bucket": "talkbuddyai.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458583265582:android:618f2a9068dd599c53eabf",
+        "android_client_info": {
+          "package_name": "com.example.talkbuddyai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlkJFwU26-Dk21SP6kCOKXRo1wMAEXuBU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
